@@ -7,7 +7,7 @@ Eu sou <span>Misaias Francisco Correa</span>, estou estudando <br>Front end <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo"><br>
 <img src="" alt="node-logo"><br>
 <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" alt="npm-logo"><br>
-<img src="https://icons8.com.br/icon/9vlfB9hjA1lX/react" alt="react-logo"><br>
+<img src="C:\Users\mfcorrea.XPTPRO\Downloads\icons8-react-100" alt="react-logo"><br>
 
 
 
